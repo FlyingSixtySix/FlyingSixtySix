@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 <!--
 **FlyingSixtySix/FlyingSixtySix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :woman: My name's Vanilla and I'm 18 years old. My pronouns are she/her.
+- :seedling: I'm learning C++ and Go.
+- :computer: I'm proficient in Node.js, and I am comfortable with Python, Java, and C#.
+- :book: I'm an undergraduate at SNHU working on my bachelor's degree in computer science.
+- :globe_with_meridians: I'm currently the owner and project lead of the web game pxls.space ([site](https://pxls.space/), [org](https://github.com/pxlsspace/)).
