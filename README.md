@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - :computer: I'm proficient in Node.js, and I am comfortable with Python, Java, and C#.
 - :book: I'm an undergraduate at SNHU working on my bachelor's degree in computer science.
 - :globe_with_meridians: I'm currently the owner and project lead of the web game pxls.space ([site](https://pxls.space/), [org](https://github.com/pxlsspace/)).
+
+<img src="https://raw.githubusercontent.com/FlyingSixtySix/FlyingSixtySix/main/github-metrics.svg">
