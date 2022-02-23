@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :woman: My name's Vanilla and I'm 18 years old. My pronouns are she/her.
-- :seedling: I'm learning C++ and Go.
-- :computer: I'm proficient in Node.js, and I am comfortable with Python, Java, and C#.
-- :book: I'm an undergraduate at SNHU working on my bachelor's degree in computer science.
+- :woman: My name's Vanilla and I'm 18 years old. My pronouns are [she/her](https://en.pronouns.page/she).
+- :seedling: I'm interested in learning Rust.
+- :computer: I'm most experienced in Node.js and Typescript, and I am comfortable with Python, Java, and C#. I have a little bit of experience dabbling with Go and PHP.
+- :book: I'm an undergraduate working on my bachelor's degree in computer science.
 - :globe_with_meridians: I'm currently the owner and project lead of the web game pxls.space ([site](https://pxls.space/), [org](https://github.com/pxlsspace/)).
 
 <img src="https://raw.githubusercontent.com/FlyingSixtySix/FlyingSixtySix/main/github-metrics.svg">
