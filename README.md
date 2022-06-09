@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :woman: My name's Vanilla and I'm 18 years old. My pronouns are [she/her](https://en.pronouns.page/she).
+- 👨‍💻 My name's Andrew and I'm 19 years old.
 - :seedling: I'm interested in learning Rust.
 - :computer: I'm most experienced in Node.js and Typescript, and I am comfortable with Python, Java, and C#. I have a little bit of experience dabbling with Go and PHP.
 - :book: I'm an undergraduate working on my bachelor's degree in computer science.
